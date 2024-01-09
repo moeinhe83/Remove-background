@@ -9,3 +9,5 @@ pyfiglet  ===> To Install => pip install pyfiglet
 termcolor2 ===> To Install => pip install termcolor2
 
 rembg [For Python Version < 3.12] => pip install rembg
+
+To Run The Program ==> python rmbg.py
