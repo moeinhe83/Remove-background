@@ -1,4 +1,4 @@
-Name Project ===> Remove The Background Picture 
+Program Name ===> Remove The Background Picture 
 
 Python Program To Remove The Background Of The Received Photo
 
