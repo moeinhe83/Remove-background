@@ -4,7 +4,7 @@ Python Program To Remove The Background Of The Received Photo
 
 Python Version Required For This Program ===>  < 3.12 (Python previous version 3.12)
 
-Required packages ===> rembg / pyfiglet / termcolor2 / PIL
+Required Python packages for this program ===> rembg / pyfiglet / termcolor2 / PIL
 
 pyfiglet  ===> To Install => pip install pyfiglet
 
