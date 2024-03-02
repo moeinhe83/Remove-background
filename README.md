@@ -1,6 +1,6 @@
 Program Name ===> Remove The Background Picture 
 
-Program Description ===> Python Program To Remove The Background Of The Received Photo
+Program Description ===> Python Program To Remove The Background Of The Received Photo.
 
 Programming language ===> Python
 
